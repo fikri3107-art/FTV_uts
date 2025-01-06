@@ -1,3 +1,8 @@
-# FTV_uts
-UTS Pemograman mobile 1
-Ini adalah Project Aplikasi sebuah pengenalan Gunung yang pernah saya kunjungi
+# Nama Mahasiswa 
+- Nama : Muhammad Fikri Fadhlurrahman
+- Nim : 312310176 
+
+# Universitas
+- Universitas Pelita Bangsa
+- Kelas : T1.23.C3
+- Prodi : Teknik Informatika
